@@ -1,0 +1,76 @@
+White Rabbit
+Yard
+0
+Oh I was late, late, late to my date! Now I can't even tell the time because I have lost my
+pocketwatch! Oh, hello, what a surprise seeing you here. Did you follow me through the rabbit hole?
+You shouldn't have done that! Now surely the Queen of Hearts will put you to work if you have any
+hopes in leaving Wonderland. Say, I will give you this pearl necklace if you find my pocketwatch for me?
+I must have dropped it when I went down the hole! Feel free to use my house to store your findings! Your
+pockets are probably not as big as mine!
+SEPARATE
+Be wary of the Queen of Hearts! She might not be as trustworthy as she seems...
+BREAK
+The Duchess
+Duchess' Manor
+0
+Well what do we have here? Nobody ventures this far to visit The Duchess, you brave soul. You must
+not be from Wonderland! Ha Ha Ha! I will help you poor girl if you play a game with me! Win this
+game and I will give you the King's Staff! Surely it will be key in getting you home and out of
+Wonderland. What do you say? Talk to me again if you want to play, Ha!
+SEPARATE
+What are you still doing in my manor? Do you not have any manners?
+BREAK
+The Caterpillar
+Forest
+0
+*cough* *cough* Oh hello little miss. Have you gotten lost from where you came from? It is
+dangerous to be in this here forest. What are you looking for? Who are you? *cough* *cough*
+I suggest you leave, or you might get lost and not be able to return home! Or do you want to play
+a game? I can give you this Hookah if you win! It is a wonderful treasure that might aid you in
+appeasing the Queen of Hearts! *cough* *cough* Speak to me if you would like to play.
+SEPARATE
+*cough* *cough* If you are lost just seek the light to get out of this forest.
+BREAK
+The Mad Hatter
+Tea Party
+0
+Mmmm what a splendid tea party! Hello! You there! Would you like a cup of tea? I am the Mad Hatter,
+and I am the host of this tea party! You seem like you haven't had much to eat today, have a biscuit!
+Oh, what a splendid day! Could be a lot better if I had my hat, but alas I have to settle for
+this dinky old golden crown. Say girl, if you happen to find my hat, I will give you this crown!
+SEPARATE
+Such a splendid day to have such a splendid tea party!
+BREAK
+March Hare
+Meadows
+0
+He He He, I am the March Hare! You best come to the tea party for some biscuits and tea! I notice you aren't from
+Wonderland. I hope you find your way back, but I am afraid there is no way without talking to the
+Queen of Hearts first. Anyway, I am on my way to the tea party if I can remember where it was! But wait, here is a
+teacup!
+SEPARATE
+Now where did The Mad Hatter say this tea party was?
+BREAK
+Queen of Hearts
+Croquet Court
+0
+Well, well, well if it isn't Alice, the little girl from the outside world! Usually I do not give
+pity to outsiders who happen to stumble into Wonderland and ignore their common senses! But since
+you're just little Alice, I will give you a chance! Bring me my crown back, my King's staff, and
+six other treasures and I will send you back to where you came from! Leave it in the White Rabbit's
+house and I will see to it once you come back with everything. Be careful out in Wonderland, it
+is not as safe as you think it seems...
+SEPARATE
+You better keep looking for my crown and those treasures, or you will be stuck here forever! Ha!
+BREAK
+Cheshire Cat
+Garden
+0
+Hello and welcome. I have noticed you accidentally got here through the rabbit hole. You curious
+and reckless child. Oh, well. There is nothing you can do but talk to the Queen of Hearts and do
+as you are told. I have heard she has lost her crown. It is with the Mad Hatter. Head to the tea
+party, that is where you will find him. By the way, here is a pocketwatch I found. You might find
+move useful than me.
+SEPARATE
+Have you talked to The Queen of Hearts? I am afraid doing what she asks is the only way out for you.
+BREAK

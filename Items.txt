@@ -1,0 +1,60 @@
+Cake
+0
+White Rabbit's House
+A slice of strawberry cake.
+BREAK
+Pearl necklace
+1
+Yard
+A beautiful iridescent pearl necklace. Worthy only for royalty to wear.
+BREAK
+Pocketwatch
+1
+Garden
+A small and shiny pocketwatch. On the back is the engraved initials 'WR'...
+BREAK
+Gloves
+0
+Yard
+A pair of soft silk gloves.
+BREAK
+Book
+0
+Duchess' Manor
+A book titled "Adventures in Wonderland".
+BREAK
+Queen's Crown
+1
+Tea Party
+A large golden crown. Seems like it belongs to someone important...
+BREAK
+King's Staff
+1
+Duchess' Manor
+A long bejewelled golden staff. Seems like it belongs to someone important...
+BREAK
+Gold ring
+0
+Forest
+A beautiful gold ring.
+BREAK
+Hookah
+1
+Forest
+A fancy looking hookah. The smell coming from it irritates your nose.
+BREAK
+Teacup
+1
+Meadows
+An intricately designed teacup. Perfect for a tea party.
+BREAK
+Velvet Hat
+0
+White Rabbit's House
+A green velvet hat. Looks too big to wear yourself.
+BREAK
+Sword
+0
+White Rabbit's House
+A sharp iron sword. Looks dangerous.
+BREAK

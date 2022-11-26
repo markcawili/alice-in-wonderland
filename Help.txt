@@ -1,0 +1,19 @@
+You play as Alice, finding herself stuck in the mysterious Wonderland. You must collect a
+number of treasures and present them to a certain powerful character to be granted a way back
+home and escape Wonderland.
+
+There are multiple rooms, items, and characters to interact with within the world. There is also a chance to encounter
+enemies that can end Alice's life in certain rooms. Alice can also find herself playing mini-games with certain
+characters in the world to win important treasures.
+
+You can initiate commands by typing in an action verb and then the name of the item or character
+in question. Alice can "move" around with cardinal directions "north", "south", "east", and "west". Alice can
+also "look around" her and at "look" items in her inventory. Alice can "take" items and "drop" them as well as
+"talk" to characters she encounters. Alice can also check her inventory by typing "inventory", "inv",
+or "i". When in an encounter with an enemy, Alice can "attack" to fight back or "run" to run away which
+has a chance to succeed. Alice can replenish her health by taking bites of a cake that she finds to "eat" it. If
+prompted for a minigame, Alice can say "yes" or "no" to start or avoid the game. The player can exit the game at any
+time by typing "quit" or type "help" at any time to show this help menu again.
+
+Invalid commands will be handled accordingly and a message will print out to you if an invalid command is entered
+to which you can either try a different command or prompt the item or character again.

@@ -1,0 +1,67 @@
+Riverbank
+-,White Rabbit's House,-,-,Riverbank
+0
+You wake up to the sound of flowing water. As you stand up, you see a White Rabbit wearing a waistcoat run by you,
+pull out a pocketwatch, and mutter something you could not hear before jumping down a rabbit hole. You decide to follow
+it.
+BREAK
+White Rabbit's House
+-,Garden,Yard,Croquet Court,White Rabbit's House
+0
+You are in a quaint small house. You see the front entrance, the White Rabbit is pacing around outside. To the back
+you see a door, as you squint through the sunlight you see bright flowers. On a small corner you see a wooden door.
+You hear muffled conversation through the seams.
+BREAK
+Croquet Court
+-,-,White Rabbit's House,-,Croquet Court
+0
+You find yourself on the sidelines of a busy croquet court. There are animated playing cards walking around and various
+odd animals watching the game. At the corner of your eyes you catch the Queen of Hearts staring at you. It seems like
+she wants to talk.
+BREAK
+Yard
+-,Forest,Meadows,White Rabbit's House,Yard
+0
+You arrive at a wide green yard. Just outside the yard you see a forest lined with tall trees. To the distance you see
+a vast expanse of high grass, flowing like waves along with the warm breeze. You can see the White Rabbit's House,
+painted all white like the fur of its owner. You see the White Rabbit pacing around the neatly trimmed grass.
+BREAK
+Garden
+White Rabbit's House,-,Forest,-,Garden
+0
+You are surrounded by an array of colorful and fragrant flowers. You hear the chirps of birds and the buzzing of bees
+around you as you feel the warm sun rays hit your skin. Tall brick walls surround the garden, but you see an exit that
+leads to a forest lined with tall trees. You can see the White Rabbit's House, painted all white like the fur of its
+owner. By some sunflowers you see a Cheshire Cat with the widest grin staring at you.
+BREAK
+Forest
+Yard,Tea Party,Duchess' Manor,Garden,Forest
+0
+You find yourself in a dim open patch in the forest, as you look up all you see is the darkness of the canopy with only
+some sunlight passing through. In the distance you see a bright green yard. You look another way and you see bright
+colors emanating from a garden. Through a thick trail of bushes you see a sign that reads "The Duchess' Manor". On the
+base of an old tree you see a tiny door, from it, you smell a sweet fragrance of baked goods. A Caterpillar catches
+your attention as it puffs out a thick smoke from its mouth.
+BREAK
+Meadows
+-,Duchess' Manor,-,Yard,Meadows
+0
+You are at a meadow of high grass as far as your eye can see. Just over a hill you see a towering manor just outside a
+thick forest. Off to towards the distance you see a yard with neatly trimmed grass. Hopping through the high grass you
+see a hare jumping in and out of your view, it seems lost. The warm breeze flows hugs your skin like a warm blanket.
+BREAK
+Duchess' Manor
+Meadows,-,-,Forest,Duchess' Manor
+0
+You find yourself in a huge manor of old dark wood filled with the smell of incense and smoke. Just outside the
+entrance you see a pathway lined with thick bushes leading to the dark forest. Out a window in the main room you see
+a meadow of high grass flowing along with the wind. You hear thundering footsteps come from the hallway by you and are
+greeted by the Duchess, owner of the manor.
+BREAK
+Tea Party
+Forest,-,-,-,Tea Party
+0
+You arrive at the site of a small but bountiful tea party! On the large table is a display of various baked goods and
+colorful plates and tea cups. You are intrigued by the aroma. On the far side of the large table you see The Mad Hatter
+continuing to prep and enjoying the arrangement, unaware of your entrance.
+BREAK
